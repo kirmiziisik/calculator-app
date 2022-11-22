@@ -1,3 +1,3 @@
 Calculator App with React
 
-Demo: https://kirmiziisik-react-calculator.netlify.app
+Demo: https://sezerusak-react-calculator.netlify.app
